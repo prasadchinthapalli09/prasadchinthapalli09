@@ -17,7 +17,7 @@
 - 🔍 Actively seeking **Data Analyst / Full Stack** fresher roles
 - 🛠️ Experienced with Python, SQL, Power BI, and the MERN stack
 - 🌱 Currently deepening skills in data visualization and ML pipelines
-- 🌐 Portfolio: [https://prasadchinthapalli09.github.io/Personal-Portfolio](https://prasadchinthapalli09.github.io/Personal-Portfolio)
+- 🌐 Portfolio: [https://prasadchinthapalli09.github.io/Personal-Portfolio](https://prasadchinthapalli09.github.io/Personal_Portfolio/)
 
 ## 🧰 Tech Stack
 
