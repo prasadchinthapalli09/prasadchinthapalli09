@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech CSE graduate from **Raghu Engineering College, Hyderabad** (2026)
+- 🎓 B.Tech CSE graduate from **Raghu Engineering College, Visakhapatnam** (2026)
 - 📍 Based in **Visakhaptnam, India**
 - 🔍 Actively seeking **Data Analyst / Full Stack** fresher roles
 - 🛠️ Experienced with Python, SQL, Power BI, and the MERN stack
