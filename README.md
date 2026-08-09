@@ -39,11 +39,15 @@
 ### 📁 [Personal Portfolio](https://github.com/prasadchinthapalli09/personal-portfolio)
 > Responsive vCard portfolio with data analyst focus
 
+### 📁 [ai-sql-assistant](https://github.com/prasadchinthapalli09/ai-sql-assistant)
+> Ask your PostgreSQL database questions in plain English and get safe, charted answers back.
+
 ## 🏅 Certifications
 
 - ✅ AWS AI/ML Virtual Internship — Eduskills / AICTE
 - ✅ Full Stack MERN Developer — Codtech IT Solutions
 - ✅ Data Science Internship — SkillDzire
+- ✅  Oracle Certified Foundations Associate — Agentic AI  — Oracle
 
 ## 📬 Connect With Me
 
