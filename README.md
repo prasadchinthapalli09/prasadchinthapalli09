@@ -67,9 +67,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
 </p>
-
-> These cards are served by free community-hosted APIs and can occasionally lag on first load — they refresh automatically, so a reload usually fixes it. For a permanent fix, see the note at the bottom.
-
 ---
 
 ## Certifications
