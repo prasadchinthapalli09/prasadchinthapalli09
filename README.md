@@ -58,14 +58,20 @@
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadchinthapalli09&theme=minimal&hide_border=true&height=300" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prasadchinthapalli09&theme=flat&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 
 </div>
+
+> These cards are served by free, shared community APIs and can occasionally lag or fail to load (rate limits/downtime on their end) — this is a known limitation, not something broken in this file. See the note at the bottom for a permanent fix.
 
 ---
 
@@ -85,6 +91,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=prasadchinthapalli09&color=16213e&style=flat-square&label=Profile+Views)
 
 <br/>
 
