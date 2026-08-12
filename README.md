@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+full-stack+apps+with+MERN;Exploring+ML+pipelines+%26+AI+tooling" alt="Typing SVG" />
 
 </div>
 
