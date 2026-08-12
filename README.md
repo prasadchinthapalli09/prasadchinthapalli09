@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2c5364?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=203A43&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+full-stack+apps+with+MERN;Exploring+ML+pipelines+%26+AI+tooling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+full-stack+apps+with+MERN;Exploring+ML+pipelines+%26+AI+tooling" alt="Typing SVG" />
 
 </div>
 
@@ -60,18 +60,20 @@
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadchinthapalli09&theme=react-dark&hide_border=true&height=300" width="90%"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadchinthapalli09&theme=tokyo-night&hide_border=true&height=300" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasadchinthapalli09&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prasadchinthapalli09&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-
-</div>
-
-> These cards load from free shared community APIs and can occasionally lag (rate limits on their end). If you notice broken images on GitHub, see the "keeping this reliable" note below.
+> These cards load from free shared community APIs and can occasionally lag (rate limits on their end). If images show broken on GitHub, see the note at the bottom.
 
 ---
 
@@ -92,7 +94,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=prasadchinthapalli09&color=203a43&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=prasadchinthapalli09&color=2c5364&style=flat-square&label=Profile+Views)
 
 <br/>
 
