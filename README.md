@@ -1,12 +1,13 @@
 <div align="center">
 
-# Durga Prasad Chintapalli
-### Data Analyst · MERN Developer · B.Tech CSE '26
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20MERN%20Developer%20%7C%20B.Tech%20CSE%20'26&descAlignY=58&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=16213E&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+full-stack+apps+with+MERN;Exploring+ML+pipelines+%26+AI+tooling" alt="Typing SVG" />
 
 </div>
 
@@ -84,5 +85,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
