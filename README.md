@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20MERN%20Developer%20%7C%20B.Tech%20CSE%20'26&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20MERN%20Developer%20%7C%20B.Tech%20CSE%20'26&descAlignY=58&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2c5364?style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=16213E&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+full-stack+apps+with+MERN;Exploring+ML+pipelines+%26+AI+tooling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=203A43&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+full-stack+apps+with+MERN;Exploring+ML+pipelines+%26+AI+tooling" alt="Typing SVG" />
 
 </div>
 
@@ -62,16 +62,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadchinthapalli09&theme=minimal&hide_border=true&height=300" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadchinthapalli09&theme=tokyo-night&hide_border=true&height=300" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prasadchinthapalli09&theme=flat&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prasadchinthapalli09&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 
 </div>
 
-> These cards are served by free, shared community APIs and can occasionally lag or fail to load (rate limits/downtime on their end) — this is a known limitation, not something broken in this file. See the note at the bottom for a permanent fix.
+> These cards load from free shared community APIs and can occasionally lag (rate limits on their end). If you notice broken images on GitHub, see the "keeping this reliable" note below.
 
 ---
 
@@ -92,10 +92,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=prasadchinthapalli09&color=16213e&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=prasadchinthapalli09&color=203a43&style=flat-square&label=Profile+Views)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
