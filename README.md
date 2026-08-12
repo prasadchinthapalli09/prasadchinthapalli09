@@ -53,27 +53,23 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 [**ai-sql-assistant**](https://github.com/prasadchinthapalli09/ai-sql-assistant) | Ask your PostgreSQL database questions in plain English and get safe, charted answers back | Python, PostgreSQL, LLM |
-| 💰 [**Expense Tracker**](https://github.com/prasadchinthapalli09/expense-tracker) | MERN stack app with JWT auth and Chart.js analytics | React, Node.js, MongoDB |
-| 🪪 [**Personal Portfolio**](https://github.com/prasadchinthapalli09/personal-portfolio) | Responsive vCard portfolio with a data-analyst focus | React, CSS |
+| 💰 [**Expense-Tracker**](https://github.com/prasadchinthapalli09/Expense-Tracker) | MERN stack app with JWT auth and Chart.js analytics | React, Node.js, MongoDB |
+| 🪪 [**Personal-Portfolio**](https://github.com/prasadchinthapalli09/Personal-Portfolio) | Responsive vCard portfolio with a data-analyst focus | React, CSS |
 
 ---
 
-## GitHub Activity
+## ⚡ Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadchinthapalli09&theme=github-dark-blue&hide_border=true&card_width=800" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadchinthapalli09&theme=react-dark&hide_border=true&height=300" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasadchinthapalli09&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-</p>
-
-> These cards load from free shared community APIs and can occasionally lag (rate limits on their end). If images show broken on GitHub, see the note at the bottom.
+> These cards are served by free community-hosted APIs and can occasionally lag on first load — they refresh automatically, so a reload usually fixes it. For a permanent fix, see the note at the bottom.
 
 ---
 
@@ -101,3 +97,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
+
