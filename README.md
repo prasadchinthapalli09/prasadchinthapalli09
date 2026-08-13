@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring Data%20Analyst%20%7C%20_%20Developer%20%7C%20B.Tech%20CSE%20'26&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%2026&descAlignY=58&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-pi-eight-99.vercel.app/)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
-
 
 </div>
 
@@ -60,13 +59,14 @@
 ## ⚡ Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadchinthapalli09&theme=github-dark-blue&hide_border=true&card_width=800" width="90%"/>
+  <img src="https://streak-stats.demolab.com/?user=prasadchinthapalli09&theme=github-dark-blue&hide_border=true&card_width=800" width="90%"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
 </p>
+
 ---
 
 ## Certifications
@@ -93,4 +93,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
-
