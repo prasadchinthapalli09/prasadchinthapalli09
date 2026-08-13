@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20MERN%20Developer%20%7C%20B.Tech%20CSE%20'26&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring Data%20Analyst%20%7C%20_%20Developer%20%7C%20B.Tech%20CSE%20'26&descAlignY=58&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-chintapalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadchinthapalli51@gmail.com)
