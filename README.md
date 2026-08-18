@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">—
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Durga%20Prasad%20Chintapalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%2026&descAlignY=58&descSize=15" width="100%"/>
 
