@@ -63,18 +63,11 @@
 
 ---
 
-## ⚡ Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prasadchinthapalli09&theme=github-dark-blue&hide_border=true&card_width=800" width="90%"/>
-</p>
-
----
-
 ## Certifications
 
 - AWS AI/ML Virtual Internship — Eduskills / AICTE
 - Full Stack MERN Developer — Codtech IT Solutions
+- Python Programming and Java Programming — NPTEL
 - Data Science Internship — SkillDzire
 - Oracle Certified Foundations Associate — Agentic AI — Oracle
 
