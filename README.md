@@ -70,8 +70,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasadchinthapalli09&theme=github_dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadchinthapalli09&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinthapalli09&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" width="48%"/>
 </p>
 
 ---
