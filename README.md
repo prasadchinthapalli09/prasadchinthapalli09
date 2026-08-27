@@ -23,9 +23,7 @@
 ---
 
 ## Tech Stack
-
 **Languages & Data**
-
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -34,25 +32,24 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 **Full Stack**
-
 ![React](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 
 **Data & BI**
-
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-217346?logo=microsoft&logoColor=white&style=flat-square)
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-**Tools**
+**Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-
 ---
-
 ## Projects
 
 | Project | Description | Stack |
