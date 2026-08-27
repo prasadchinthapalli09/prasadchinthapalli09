@@ -60,6 +60,7 @@
 | 🤖 [**ai-sql-assistant**](https://github.com/prasadchinthapalli09/ai-sql-assistant) | Ask your PostgreSQL database questions in plain English and get safe, charted answers back | Python, PostgreSQL, LLM |
 | 💰 [**Expense-Tracker**](https://github.com/prasadchinthapalli09/Expense-Tracker) | MERN stack app with JWT auth and Chart.js analytics | React, Node.js, MongoDB |
 | 🪪 [**Personal-Portfolio**](https://github.com/prasadchinthapalli09/Personal-Portfolio) | Responsive vCard portfolio with a data-analyst focus | React, CSS |
+| 🏦 [**indian-banking-transaction-analytics-dashboard**](https://github.com/prasadchinthapalli09/indian-banking-transaction-analytics-dashboard) | Power BI dashboard analyzing 5.5L+ banking transactions to track failure patterns, channel performance, and fraud risk | Power BI, DAX, SQL |
 
 ---
 
