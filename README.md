@@ -30,20 +30,23 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
 **Full Stack**
 ![React](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+
 **Data & BI**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+
 ---
-upadte my tech stack give new code same format
 ## Projects
 
 | Project | Description | Stack |
