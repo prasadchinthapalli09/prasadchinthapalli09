@@ -69,6 +69,7 @@ Tools :-
 - Python Programming and Java Programming — NPTEL
 - Data Science Internship — SkillDzire
 - Oracle Certified Foundations Associate — Agentic AI — Oracle
+- Claude Academy: Building with the Claude API — Claude Academy
 
 ---
 
